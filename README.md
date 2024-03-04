@@ -15,4 +15,5 @@ streamlit run dashboard.py
 ```
 
 ## Screenshots
-![image](https://github.com/arethakm/Alpro-A1/assets/100180167/b3e5e844-27df-4ad5-b735-323c88e8aa78)
+![image](https://github.com/arethakm/projek-analisis-data/assets/100180167/0e614f37-9c87-4755-b8f5-b9032617d779)
+
